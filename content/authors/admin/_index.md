@@ -67,9 +67,7 @@ email: "saquibsid@asu.edu"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - BLISS Labs
-  link : https://bliss.engineering.asu.edu/people/
 - WISCA Center
-  link : https://wisca.engineering.asu.edu/
 ---
 
 Saquib Ahmad Siddiqui is graduate student at Arizona State University. He is working on his PhD in computer engineering advised by Prof. Daniel Bliss. His research interests include computer architecture, reconfigurable computing and embedded vision. He currently works at BLISS Labs where he is developing hardware systems for various Electromagnetic radio frequency (RF) convergence applications
