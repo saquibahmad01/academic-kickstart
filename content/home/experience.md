@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "Jan 2006"
+date_format = "January 2, 2006"
 
 # Experiences.
 #   Add/remove as many `[[experience]]` blocks below as you like.
@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "BLISS Labs, Arizona State University"
   company_url = "https://bliss.engineering.asu.edu/people/"
   location = "Tempe, Arizona, USA "
-  date_start = "August, 2019"
+  date_start = "August 26, 2019"
   date_end = ""
   description = """ 
   
@@ -35,8 +35,8 @@ date_format = "Jan 2006"
   company = "Information Sceinces Institute - University of Southern California"
   company_url = "https://www.isi.edu/research_groups/reconfigurable_computing_group/overview"
   location = "Arlington, Virginia, USA"
-  date_start = "June, 2019"
-  date_end = "August, 2019"
+  date_start = "June 3, 2019"
+  date_end = "August 21, 2019"
   description = """
   
   Worked with Reconfigurable Computing Group advised by Dr. Vivek Menon
