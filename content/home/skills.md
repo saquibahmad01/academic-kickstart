@@ -17,15 +17,27 @@ subtitle = ""
 [[feature]]
   icon = "github"
   icon_pack = "fab"
-  name = "github"
+  name = "Github"
+  description = "90%"
+
+[[feature]]
+  icon = "overleaf"
+  icon_pack = "fab"
+  name = "Overleaf"
   description = "90%"
   
+[[feature]]
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+  description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-li"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
+  description = "100%" 
+
   
 [[feature]]
   icon = "camera-retro"
