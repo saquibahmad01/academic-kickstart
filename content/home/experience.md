@@ -33,11 +33,10 @@ date_format = "Jan 2006"
   location = "Arlington, Virginia, USA"
   date_start = "2019-06-03"
   date_end = "2019-8-21"
-  description = """Worked with Reconfigurable Computing Group advised by Dr. Vivek Menon
+  description = """Worked with Reconfigurable Computing Group advised by Dr. Vivek Menon"""
   Responsibilities include:
   * Software Development and Optimization of Sensor Fusion Algorithms
   * Hardware Mapping onto Field Programmable Gate Array (FPGA)
- """ 
   
  [[experience]]
   title = "Research Intern"
