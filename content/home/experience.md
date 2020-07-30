@@ -22,14 +22,11 @@ date_format = "Jan 2006"
   company = "BLISS Labs, Arizona State University"
   company_url = "https://bliss.engineering.asu.edu/people/"
   location = "Tempe, Arizona, USA "
-  date_start = "2019-08-26"
+  date_start = "Aug 2019"
   date_end = ""
   description = """ 
   
-  Graduate student working on 
-  * Hardware Development
-  * Deployment
-  * Accelaration of RF systems  
+  Graduate student working on Hardware Development, Deployment and Accelaration of RF systems  
   
   """
 
@@ -38,8 +35,8 @@ date_format = "Jan 2006"
   company = "Information Sceinces Institute - University of Southern California"
   company_url = "https://www.isi.edu/research_groups/reconfigurable_computing_group/overview"
   location = "Arlington, Virginia, USA"
-  date_start = "2019-06-03"
-  date_end = "2019-8-21"
+  date_start = "Jun 2019"
+  date_end = "Aug 2019"
   description = """
   
   Worked with Reconfigurable Computing Group advised by Dr. Vivek Menon
