@@ -18,27 +18,35 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Graduate Research Assistant"
+  company = "BLISS Labs, Arizona State University"
+  company_url = "https://bliss.engineering.asu.edu/people/"
+  location = "Tempe, Arizona, USA "
+  date_start = "2019-08-26"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = """ Graduate student working on Hardware Development, Deployment and Accelaration of RF systems  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Visiting Research Assistant"
+  company = "Information Sceinces Institute - University of Southern California"
+  company_url = "https://www.isi.edu/research_groups/reconfigurable_computing_group/overview"
+  location = "Arlington, Virginia, USA"
+  date_start = "2019-06-03"
+  date_end = "2019-8-21"
+  description = """Worked with Reconfigurable Computing Group advised by Dr. Vivek Menon
+  Responsibilities include:
+  * Software Development and Optimization of Sensor Fusion Algorithms
+  * Hardware Mapping onto Field Programmable Gate Array (FPGA)
+ """ 
+  
+ [[experience]]
+  title = "Research Intern"
+  company = "IIIT Delhi"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "New Delhi, India"
+  date_start = "2017-05-01"
+  date_end = "2017-06-31"
+  description = """Worked on image and video processing for multimedia security and forensics """
+
 
 +++
