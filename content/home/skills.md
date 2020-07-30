@@ -18,7 +18,7 @@ subtitle = ""
   icon = "github"
   icon_pack = "fab"
   name = "Github"
-  description = "90%"
+  description = "80%"
 
 [[feature]]
   icon = "overleaf"
