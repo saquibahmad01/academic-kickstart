@@ -23,7 +23,7 @@ subtitle = ""
 [[feature]]
   icon = "overleaf"
   icon_pack = "fab"
-  name = "Overleaf"
+  name = "overleaf"
   description = "90%"
   
 [[feature]]
@@ -32,18 +32,7 @@ subtitle = ""
   name = "Python"
   description = "90%"
   
-[[feature]]
-  icon = "chart-li"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%" 
 
-  
-[[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
 
 # Uncomment to use emoji icons.
 # [[feature]]
