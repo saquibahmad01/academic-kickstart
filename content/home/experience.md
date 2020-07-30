@@ -46,18 +46,18 @@ date_format = "Jan 2006"
   
   """
   
-# [[experience]]
-#  title = "Research Intern"
-#  company = "IIIT Delhi"
-#  company_url = ""
-#  location = "New Delhi, India"
-#  date_start = "2017-05-01"
-#  date_end = "2017-06-31"
-#  description = """ 
+ [[experience]]
+  title = "Research Intern"
+  company = "IIIT Delhi"
+  company_url = ""
+  location = "New Delhi, India"
+  date_start = "2017-05-01"
+  date_end = "2017-06-31"
+  description = """ 
   
-# Worked on image and video processing for multimedia security and forensics 
-  
-#  """
+ Worked on image and video processing for multimedia security and forensics 
+
+"""
 
 
 +++
