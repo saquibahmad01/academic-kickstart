@@ -70,4 +70,4 @@ user_groups:
 - WISCA Center
 ---
 
-Saquib Ahmad Siddiqui is graduate student at Arizona State University. He is working on his PhD in computer engineering advised by Prof. Daniel Bliss. His research interests include computer architecture, reconfigurable computing and embedded vision. He currently works at BLISS Labs where he is developing hardware systems for various Electromagnetic radio frequency (RF) convergence applications
+Saquib Ahmad Siddiqui is a graduate student at Arizona State University. He is working on his PhD in computer engineering advised by Prof. Daniel Bliss. His research interests include computer architecture, reconfigurable computing and embedded vision. He currently works at BLISS Labs where he is developing hardware systems for various Electromagnetic radio frequency (RF) convergence applications
